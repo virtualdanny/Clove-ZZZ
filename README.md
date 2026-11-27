@@ -31,17 +31,22 @@
 * Dumb Enemies
 * Damage Multiplier
 * Hit Multiplier
+* Unlimited Ultimate
+* Unlimited Assist Points
+* Instant Stun
 
 **Visuals**
 
 * Fps Indicator
-* Skin Changer (one toggle, all skins)
+* Skin Changer 
+* Peeking
 
 **Misc**
 
 * Global Speed
 * Fps Unlock
 * Windows Mouse Cursor
+* Configs
 
 ---
 
